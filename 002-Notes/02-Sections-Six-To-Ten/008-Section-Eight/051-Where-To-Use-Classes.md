@@ -1,0 +1,1 @@
+# Interfaces + Classes = Key to reusable code in TypeScript.
