@@ -43,7 +43,7 @@ const newVehicle = {
 };
 
 const printSummary = (item: Reportable): void => {
-    console.log(newVehicle.summary);
+    console.log(item);
 };
 
 printSummary(newVehicle);
